@@ -12,11 +12,11 @@ Temperature Converter is a simple web application that allows users to convert t
 
 3.You will see the Temperature Converter interface, which consists of the following elements:
 
- *Input Value: Enter the temperature value that you want to convert in the "Enter Your Value" input field.
+ * Input Value: Enter the temperature value that you want to convert in the "Enter Your Value" input field.
  
- *Select Temperature Unit: Choose the unit of the temperature value you entered (Fahrenheit, Celsius, or Kelvin) from the drop-down menu.
+ * Select Temperature Unit: Choose the unit of the temperature value you entered (Fahrenheit, Celsius, or Kelvin) from the drop-down menu.
  
- *Calculate Button: Click on the "Calculate" button to perform the conversion.
+ * Calculate Button: Click on the "Calculate" button to perform the conversion.
 
 4.Once you click the "Calculate" button, the converted values will be displayed in the three input fields:
 
@@ -28,13 +28,13 @@ Value In Kelvin: The converted temperature value in Kelvin.
 
 # Technologies Used
 
-*HTML: The structure and layout of the web page.
+* HTML: The structure and layout of the web page.
 
-*CSS: Styling and appearance of the elements.
+* CSS: Styling and appearance of the elements.
 
-*JavaScript: Handling the conversion logic and user interactions.
+* JavaScript: Handling the conversion logic and user interactions.
 
-*Bootstrap 5: A popular CSS framework for responsive and mobile-first designs
+* Bootstrap 5: A popular CSS framework for responsive and mobile-first designs
 
 # Directory Structure
 Temperature_converter/
@@ -89,5 +89,5 @@ If you would like to contribute to the project, feel free to fork the repository
 We would like to thank the Bootstrap team and the open-source community for providing the tools and resources that made this project possible
 
 # Author
-*Sigireddy Viswesh
-*sigireddyviswesh@gmail.com
+* Sigireddy Viswesh
+* sigireddyviswesh@gmail.com
