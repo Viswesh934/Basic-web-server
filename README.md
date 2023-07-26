@@ -5,7 +5,7 @@ This is a basic server using Node.js. It only works on a domain  but  not on mod
 This project is a simple temperature converter that can convert between Fahrenheit,Celsius,Kelvin.
 Temperature Converter is a simple web application that allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin. This application is built using HTML, CSS, and JavaScript
 
-#How to Use
+# How to Use
 1.Clone or download the repository to your local machine.
 
 2.Open the index.html file in your web browser.
@@ -24,14 +24,14 @@ Value In Kelvin: The converted temperature value in Kelvin.
 
 5.You can repeat the process by entering a new temperature value or selecting a different unit.
 
-#Technologies Used
+# Technologies Used
 
 *HTML: The structure and layout of the web page.
 *CSS: Styling and appearance of the elements.
 *JavaScript: Handling the conversion logic and user interactions.
 *Bootstrap 5: A popular CSS framework for responsive and mobile-first designs
 
-#Directory Structure
+# Directory Structure
 Temperature_converter/
 |-- index.html
 |-- styles.css
@@ -41,7 +41,7 @@ README.md
 
 
 
-#Temperature Converter Server
+# Temperature Converter Server
 
 Temperature Converter Server is a Node.js application that serves the Temperature Converter web application to clients. The server listens on port 3000 and provides the necessary files, such as HTML, CSS, and JavaScript, to render the Temperature Converter in the client's web browser.
 
@@ -64,20 +64,20 @@ You will see the Temperature Converter web application, which allows you to conv
 Follow the instructions provided in the Temperature Converter web application's README to learn how to use the converter.
 
 
-#How It Works
+# How It Works
 The server.js file contains the Node.js server code. It uses the http module to create a server and serves the Temperature Converter files stored in the Temperature_converter directory.
 
 When a client makes a request to the server, the server checks the requested URL and maps it to the corresponding file path in the Temperature_converter directory. If the requested file is found, the server reads the file and sends it as a response to the client. If the file is not found, a 404 error response is sent.
 
 The server also sets the appropriate Content-Type header based on the file extension, so the client's browser can interpret the file correctly.
 
-#Contribution
+# Contribution
 If you would like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request. We welcome any suggestions or improvements to enhance the functionality and usability of the Temperature Converter.
 
 
-#Acknowledgments
+# Acknowledgments
 We would like to thank the Bootstrap team and the open-source community for providing the tools and resources that made this project possible
 
-#Author
+# Author
 *Sigireddy Viswesh
 *sigireddyviswesh@gmail.com
